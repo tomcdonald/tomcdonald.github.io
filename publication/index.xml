@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Thomas McDonald</title>
+    <title>Publications | Thomas M. McDonald</title>
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu19b6b3fb5e22e6099217b6253dd90eb1_1461_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Shallow and Deep Nonparametric Convolutions for Gaussian Processes</title>
-      <link>https://example.com/publication/mcdonald2022shallow/</link>
-      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mcdonald2022shallow/</guid>
+      <title>Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay</title>
+      <link>https://example.com/publication/mcdonald2023impatient/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mcdonald2023impatient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Gaussian Process Covariances via Multidimensional Convolutions</title>
+      <link>https://example.com/publication/mcdonald2023nonparametric/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mcdonald2023nonparametric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-shot Feature-Preserving Point Cloud Simplification with Gaussian Processes on Riemannian Manifolds</title>
+      <link>https://example.com/publication/pathak2023one/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pathak2023one/</guid>
       <description></description>
     </item>
     
