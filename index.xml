@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thomas M. McDonald</title>
+    <title>Thomas Baldwin-McDonald</title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Thomas M. McDonald</description>
+    <description>Thomas Baldwin-McDonald</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu19b6b3fb5e22e6099217b6253dd90eb1_1461_512x512_fill_lanczos_center_3.png</url>
-      <title>Thomas M. McDonald</title>
+      <title>Thomas Baldwin-McDonald</title>
       <link>https://example.com/</link>
     </image>
     
